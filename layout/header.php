@@ -69,7 +69,7 @@
                 <div class="col-lg-3">
                     <div class="logo">
                         <a href="index.html">
-                            <img src="assets/img/logo.png" alt="Logo">
+                            <h3>Mecer Constructions</h3>
                         </a>
                     </div>
                     <div class="responsive-menu-wrap"></div>
