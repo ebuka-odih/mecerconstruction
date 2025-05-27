@@ -2,21 +2,21 @@
 include 'layout/header.php';
 ?>
 
-    <!-- Homepage Slider -->
-    <div class="hompage-slides-wrapper">
-       <div class="construction-slide-preloader-wrap">
-            <div class="spinner"></div>
-        </div>
-        <div class="homepage-slides owl-carousel owl-theme">
-            <div class="single-slider-item slide-bg-1">
-                <div class="slide-item-table">
-                    <div class="slide-item-tablecell">
+
+        <!-- Banner Section Start -->
+        <div class="banner-slider owl-carousel owl-theme">
+            <div class="slider-items slider-bg1">
+                <div class="d-table">
+                    <div class="d-table-cell">
                         <div class="container">
-                            <div class="row">
-                                <div class="col-lg-6 offset-lg-6">
-                                    <h1>Built to Last</h1>
-                                    <p>From foundation to finishing, Mecer Construction delivers structures that stand the test of time.</p>
-                                    <a href="contact.php" class="construction-btn slide-btn">Request A Quote</a>
+                            <div class="slider-text">
+                                <h1>Built to Last</h1>
+                                <p>
+                                    From foundation to finishing, Mecer Construction delivers structures that stand the test of time.
+                                </p>
+
+                                <div class="theme-btn">
+                                    <a href="services.php" class="default-btn"> Explore Our Services</a>
                                 </div>
                             </div>
                         </div>
@@ -24,327 +24,368 @@ include 'layout/header.php';
                 </div>
             </div>
 
-            <div class="single-slider-item slide-bg-2">
-                <div class="slide-item-table">
-                    <div class="slide-item-tablecell">
+            <div class="slider-items slider-bg2">
+                <div class="d-table">
+                    <div class="d-table-cell">
                         <div class="container">
-                            <div class="row">
-                                <div class="col-lg-10 offset-lg-1 text-center">
-                                    <h1>Your Vision, Our Blueprint</h1>
-                                    <p>
-                                        Residential, commercial, or industrial — we combine technical expertise with your vision to create quality spaces.
-                                    </p>
-                                    <a href="contact.php" class="construction-btn slide-btn">Request A Quote</a>
+                            <div class="slider-text">
+                                <h1>Your Vision, Our Blueprint</h1>
+                                <p>Residential, commercial, or industrial — we combine technical expertise with your vision to create quality spaces.</p>
+
+                                <div class="theme-btn">
+                                    <a href="services.php" class="default-btn">Learn More</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+        <!-- Banner Section End -->
 
-            <div class="single-slider-item slide-bg-3">
-                <div class="slide-item-table">
-                    <div class="slide-item-tablecell">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-10 offset-lg-1 text-center">
-                                    <h1>Efficiency Meets Excellence</h1>
-                                    <p>We build with integrity, delivering projects that reflect craftsmanship and care — without compromising timelines.</p>
-                                    <a href="contact.php" class="construction-btn slide-btn">Request A Quote</a>
-                                </div>
+        <!-- About Section Start -->
+        <section class="about-style-two pt-100 pb-70">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-5">
+                        <div class="about-img">
+                            <img src="assets/img/about/2.jpg" alt="about image">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-7">
+                        <div class="about-text">
+                            <div class="section-title">
+                                <span>About Us</span>
+                                <h2>Mecer Construction</h2>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <!-- End Homepage Slider -->
-
-    <!-- Done & Dusted Area -->
-    <div class="construction-content-area">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-4 col-md-5">
-                    <div class="section-title wow animate__animated animate__fadeInUp">
-                        <h2>About Mecer Construction</h2>
-                    </div>
-                    <div class="project-info wow animate__animated animate__fadeInUp">
-                        <p class="wow animate__animated animate__fadeInUp">
-                           We are more than builders — we are your project partners. With years of industry experience and a commitment to excellence, we provide tailored construction solutions that meet your needs and exceed your expectations.
-                            <br><br>
-                            Our approach is simple: understand, design, build, and deliver. Whether it’s a single home renovation or a large-scale commercial project, we bring the same dedication to quality, safety, and client satisfaction.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-7 offset-lg-1">
-                    <div class="project-slides owl-carousel owl-theme">
-                        <div class="single-project-slide">
-                            <img class="img-responsive" src="assets/img/project-slide1.jpg" alt="project image">
-                        </div>
-                        <div class="single-project-slide">
-                            <img class="img-responsive" src="assets/img/project-slide2.jpg" alt="project image">
-                        </div>
-                        <div class="single-project-slide">
-                            <img class="img-responsive" src="assets/img/project-slide3.jpg" alt="project image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> <!-- End Done & Dusted Area -->
-
-    <!-- Home Services Area -->
-    <div class="construction-content-area gray-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-4 wow animate__animated animate__fadeInUp">
-                    <div class="service-item-block">
-                        <div class="service-item-image service-item-bg-1"></div>
-                            <h3>Best Construction</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur,  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
-                            <a href="single-service.html" class="cons-view-more-btn">View details <i class="fa fa-long-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-4 wow animate__animated animate__fadeInUp">
-                    <div class="service-item-block">
-                        <div class="service-item-image service-item-bg-2"></div>
-                            <h3>Best Renovation</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur,  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
-                            <a href="single-service.html" class="cons-view-more-btn">View details <i class="fa fa-long-arrow-right"></i></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-4">
-                   <div class="section-title">
-                       <h3>Top News</h3>
-                   </div>
-
-                    <a href="single-post.html" class="single-top-news-item wow animate__animated animate__fadeInUp">
-                        <img src="assets/img/news-thumb-1.jpg" alt="News">
-                        <h4>The Construction App helps construction superintendents put safety first</h4>
-                    </a>
-
-                    <a href="single-post.html" class="single-top-news-item wow animate__animated animate__fadeInUp">
-                        <img src="assets/img/news-thumb-2.jpg" alt="News">
-                        <h4>The Construction App helps construction superintendents put safety first</h4>
-                    </a>
-
-                    <a href="single-post.html" class="single-top-news-item wow animate__animated animate__fadeInUp">
-                        <img src="assets/img/news-thumb-3.jpg" alt="News">
-                        <h4>The Construction App helps construction superintendents put safety first</h4>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div> <!-- End Home Services Area -->
-
-    <!-- Home About Area -->
-    <div class="construction-content-area">
-        <div class="container">
-           <div class="section-title">
-               <h2>Why Choose Us</h2>
-           </div>
-            <div class="row">
-                <div class="col-lg-6 wow animate__animated animate__fadeInUp">
-                   <div class="row align-items-center">
-                       <div class="col-lg-6 col-md-5">
-                           <img src="assets/img/choose-us-img-1.jpg" alt="woman">
-                       </div>
-                       <div class="col-lg-6 col-md-7">
-                           <div class="choose-us-item">
-                                <h3>Rialibility</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
-                                <div class="space-20"></div>
-                                <h3>Time Saving</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                            <p>
+                                we are more than builders — we are your project partners. With years of industry experience and a commitment to excellence, we provide tailored construction solutions that meet your needs and exceed your expectations.
+                            </p>
+                            <p>
+                                Our approach is simple: understand, design, build, and deliver. Whether it’s a single home renovation or a large-scale commercial project, we bring the same dedication to quality, safety, and client satisfaction.
+                            </p>
+                            <div>
+                                <strong>Why we stand out</strong>
+                                <ul>
+                                    <li>Experienced Project Managers & Engineers</li>
+                                    <li>Transparent Pricing & Clear Timelines</li>
+                                    <li>Trusted by Clients Across Nigeria</li>
+                                    <li>Compliance with Industry Standards and Safety Regulations</li>
+                                </ul>
                             </div>
-                       </div>
-                   </div>
-                </div>
-                <div class="col-lg-6 wow animate__animated animate__fadeInUp">
-                   <div class="row align-items-center">
-                       <div class="col-lg-6 col-md-5">
-                           <img src="assets/img/choose-us-img-2.jpg" alt="man">
-                       </div>
-                       <div class="col-lg-6 col-md-7">
-                           <div class="choose-us-item">
-                                <h3>Expertise</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
-                                <div class="space-20"></div>
-                                <h3>Quality</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
-                            </div>
-                       </div>
-                   </div>
-                </div>
-            </div>
-            <div class="space-45"></div>
-            <div class="row">
-                <div class="col-lg-4 wow animate__animated animate__fadeInUp">
-                    <div class="single-heart-item">
-                        <span class="single-icon">
-                            <i class="fa fa-heart"></i>
-                        </span>
-                        <h3>Renovation</h3>
-                        <p>Our various areas of expertise are available on a consulting basis as an additional support</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow animate__animated animate__fadeInUp">
-                    <div class="single-heart-item">
-                        <span class="single-icon">
-                            <i class="fa fa-heart"></i>
-                        </span>
-                        <h3>Installation</h3>
-                        <p>Our various areas of expertise are available on a consulting basis as an additional support</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow animate__animated animate__fadeInUp">
-                    <div class="single-heart-item">
-                        <span class="single-icon">
-                            <i class="fa fa-heart"></i>
-                        </span>
-                        <h3>Rebuilding</h3>
-                        <p>Our various areas of expertise are available on a consulting basis as an additional support</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> <!-- End Home About Area -->
 
-    <!-- Who We Are -->
-    <div class="who-we-are who-we-are-bg">
-       <h2 class="who-heading">who we are</h2>
-        <div class="who-item-table">
-            <div class="who-item-tablecell">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12 text-center">
-                            <a href="https://vimeo.com/90691438" class="play-btn popup-youtube">
-                                <i class="fa fa-play"></i>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About Section End -->
+
+        <!-- Counter Section Start -->
+        <section class="counter-section counter-style-two pt-100 pb-70">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span>Our Experience</span>
+                    <h2>Xpat Provides All Building Services</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. </p>
+                </div>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter-text">
+                            <i class='flaticon-team'></i>
+                            <h3><span>25</span></h3>
+                            <p>Years Experience</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter-text">
+                            <i class='flaticon-project'></i>
+                            <h3><span>900</span>+</h3>
+                            <p>Projects Done</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter-text">
+                            <i class='flaticon-customer-review'></i>
+                            <h3><span>800</span>+</h3>
+                            <p>Happy Clients</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter-text">
+                            <i class='flaticon-Construction-and-tools'></i>
+                            <h3><span>270</span>+</h3>
+                            <p>Workers</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Counter Section End -->
+
+        <!-- Service Section Start -->
+        <section class="service-style-three pt-100 pb-70">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span>Our Services</span>
+                    <h2>Xpat Provides All Building Services</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. </p>
+                </div>
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="service-card text-center">
+                            <i class='flaticon-blueprint'></i>
+                            <h3>Architect Design</h3>
+                            <p>Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+
+                            <a href="service-details.html" class="service-btn">
+                                Read More
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="service-card text-center">
+                            <i class='flaticon-apartment'></i>
+                            <h3>Building Construction</h3>
+                            <p>Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+
+                            <a href="service-details.html" class="service-btn">
+                                Read More
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="service-card text-center">
+                            <i class='flaticon-garage'></i>
+                            <h3>Apartment Painting</h3>
+                            <p>Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+
+                            <a href="service-details.html" class="service-btn">
+                                Read More
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="service-card text-center">
+                            <i class='flaticon-decorating'></i>
+                            <h3>Interior Design</h3>
+                            <p>Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+
+                            <a href="service-details.html" class="service-btn">
+                                Read More
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="service-card text-center">
+                            <i class='flaticon-maintenance'></i>
+                            <h3>Welding & Repairing</h3>
+                            <p>Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+
+                            <a href="service-details.html" class="service-btn">
+                                Read More
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="service-card text-center">
+                            <i class='flaticon-welding-machine'></i>
+                            <h3>Rooms & Halls</h3>
+                            <p>Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+
+                            <a href="service-details.html" class="service-btn">
+                                Read More
                             </a>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <!-- End Who We Are -->
+        </section>
+        <!-- Service Section End -->
 
-    <!-- Our Testimonials -->
-    <div class="construction-content-area">
-        <div class="container">
-           <div class="section-title">
-               <h2>our testimonials</h2>
-           </div>
-            <div class="row">
-                <div class="col-lg-4 wow animate__animated animate__fadeInUp">
-                    <div class="testimonial-card">
-                        <span class="profile-img">
-                            <img src="assets/img/profile-img-1.jpg" alt="Image">
-                        </span>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aute irure dolor in sint </p>
-                        <h4>Alistar Cook <span>Designer</span></h4>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow animate__animated animate__fadeInUp">
-                    <div class="testimonial-card">
-                        <span class="profile-img">
-                            <img src="assets/img/profile-img-2.jpg" alt="Image">
-                        </span>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aute irure dolor in sint </p>
-                        <h4>David Warner <span>Developer</span></h4>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow animate__animated animate__fadeInUp">
-                    <div class="testimonial-card">
-                        <span class="profile-img">
-                            <img src="assets/img/profile-img-3.jpg" alt="Image">
-                        </span>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aute irure dolor in sint </p>
-                        <h4>Michel Jonson <span>Manager</span></h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> <!-- End Our Testimonials -->
+        <!-- Facilities Section Start -->
+        <section class="facilities-section">
+            <div class="container-fluid">
+                <div class="row justify-content-center">
+                    <div class="col-lg-5  p-0">
+                        <div class="facililties-text pt-100 pb-70">
+                            <div class="section-title">
+                                <span>More Facilities</span>
+                                <h2>Xpat Services You More</h2>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                            </div>
 
-    <!-- Subscribe Our Newsletter -->
-    <div class="subscribe-our-newsletter subscribe-our-newsletter-bg">
-        <div class="who-item-table">
-            <div class="who-item-tablecell">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12 text-center">
-                            <div class="newsletter-content">
-                                <h2>Subscribe to Our Newsletter</h2>
-                                <p>Sign up to our newsletter subscription and be the first to know about latest company news, special offers and discounts.</p>
+                            <ul>
+                                <li>Best Quality Work</li>
+                                <li>Top Quality Equipment</li>
+                                <li>Experienced Workers</li>
+                                <li>Best Civil Engineers</li>
+                                <li>Budget-Friendly</li>
+                                <li>Great Understanding</li>
+                                <li>Emergency Support</li>
+                                <li>Responsible Reasonable</li>
+                            </ul>
+
+                            <div class="theme-btn">
+                                <a href="about.html" class="default-btn">
+                                    Contact US
+                                </a>
                             </div>
                         </div>
                     </div>
 
-                    <form class="subscribe-nesletter" action="https://templates.envytheme.com/runhill/default/index.html">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-8 offset-lg-2">
-                                <input type="text" placeholder="name@example.com" />
-                            </div>
-                            <div class="col-lg-2 col-md-4">
-                                <button>Subscribe <i class="fa fa-send"></i></button>
-                            </div>
+                    <div class="col-lg-6 p-0">
+                        <div class="facilities-img">
                         </div>
-                    </form>
-
+                    </div>
                 </div>
             </div>
-        </div>
-    </div> <!-- End Subscribe Our Newsletter -->
-
-    <!-- Latest News -->
-    <div class="construction-content-area">
-        <div class="container">
-            <div class="section-title">
-                <h2>our latest news</h2>
             </div>
-            <div class="row">
-                <div class="col-md-4 wow animate__animated animate__fadeInUp">
-                    <a href="single-blog.html" class="single-card-item single-boxed">
-                        <div class="card-preview blog-bg-1"></div>
-                    </a>
-                   <div class="post-content">
-                        <span class="post-date-info">28th May, 2024</span>
-                       <h4 class="post-title"><a href="single-post.html">Your source of monitoring today’s market data…</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing eliesent vestibulum molestie lacus. Aenean nonummy hendrerit mauriellus porta usce suscipit.</p>
-                        <a href="single-post.html" class="post-readmore">Read more <i class="fa  fa-long-arrow-right"></i></a>
+        </section>
+        <!-- Facilities Section End -->
+
+        <!-- Project Section Start -->
+        <section class="project-section pt-100 pb-100">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span>Our Projects</span>
+                    <h2>We Have Some Completed Projects</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                </div>
+
+                <div class="project-slider owl-carousel owl-theme">
+                    <div class="project-item">
+                        <img src="assets/img/project/1.jpg" alt="project image">
+
+                        <div class="project-link">
+                            <p>Building Construction, UK</p>
+                            <a href="project-details.html">
+                                <i class='bx bx-plus'></i>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-item">
+                        <img src="assets/img/project/2.jpg" alt="project image">
+
+                        <div class="project-link">
+                            <p>Bridge Construction, New York</p>
+                            <a href="project-details.html">
+                                <i class='bx bx-plus'></i>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-item">
+                        <img src="assets/img/project/3.jpg" alt="project image">
+
+                        <div class="project-link">
+                            <p>Museum Construction, New York</p>
+                            <a href="project-details.html">
+                                <i class='bx bx-plus'></i>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="project-item">
+                        <img src="assets/img/project/2.jpg" alt="project image">
+
+                        <div class="project-link">
+                            <p>Bridge Construction, New York, USA</p>
+                            <a href="project-details.html">
+                                <i class='bx bx-plus'></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 wow animate__animated animate__fadeInUp">
-                    <a href="single-post.html" class="single-card-item single-boxed">
-                        <div class="card-preview blog-bg-2"></div>
-                    </a>
-                   <div class="post-content">
-                        <span class="post-date-info">28th May, 2024</span>
-                       <h4 class="post-title"><a href="single-post.html">Your source of monitoring today’s market data…</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing eliesent vestibulum molestie lacus. Aenean nonummy hendrerit mauriellus porta usce suscipit.</p>
-                        <a href="single-post.html" class="post-readmore">Read more <i class="fa  fa-long-arrow-right"></i></a>
-                    </div>
+                <div class="project-btn text-center">
+                    <p>Visit Our All Projects. <a href="project.html">View More</a></p>
                 </div>
-                <div class="col-md-4 wow animate__animated animate__fadeInUp">
-                    <a href="single-post.html" class="single-card-item single-boxed">
-                        <div class="card-preview blog-bg-3"></div>
-                    </a>
-                   <div class="post-content">
-                        <span class="post-date-info">28th May, 2024</span>
-                       <h4 class="post-title"><a href="#">Your source of monitoring today’s market data…</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing eliesent vestibulum molestie lacus. Aenean nonummy hendrerit mauriellus porta usce suscipit.</p>
-                        <a href="single-post.html" class="post-readmore">Read more <i class="fa  fa-long-arrow-right"></i></a>
-                    </div>
+            </div>
+        </section>
+        <!-- Project Section End -->
+
+
+        <!-- Contact Section Start -->
+        <section class="contact-section pb-100">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span>Contact Us</span>
+                    <h2>Get In Touch With Us</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
                 </div>
 
+                <div class="row justify-content-center">
+                    <div class="col-lg-5 p-0 ">
+                        <div class="contact-img"></div>
+                    </div>
+
+                    <div class="col-lg-5 p-0">
+                        <div class="contact-area">
+                            <form id="contactForm">
+                                <div class="row justify-content-center">
+                                    <div class="col-lg-12 col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" name="name" id="name" class="form-control" required data-error="Please enter your name" placeholder="Your Name">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-6">
+                                        <div class="form-group">
+                                            <input type="email" name="email" id="email" class="form-control" required data-error="Please enter your email" placeholder="Your Email">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-6">
+                                        <div class="form-group">
+                                            <input type="number" name="number" id="number" class="form-control" required data-error="Please enter your number" placeholder="Phone Number">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" name="subject" id="subject" class="form-control" required data-error="Please enter your subject" placeholder="Your Subject">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <textarea name="message" class="message-field" id="message" rows="5" required data-error="Please type your message" placeholder="Write Message"></textarea>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12">
+                                        <button type="submit" class="default-btn contact-btn">
+                                            Send Message
+                                        </button>
+                                        <div id="msgSubmit" class="h3 alert-text text-center hidden"></div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
-    </div> <!-- End Latest News -->
+        </section>
+        <!-- Contact Section End -->
 
 <?php include 'layout/footer.php'; ?>

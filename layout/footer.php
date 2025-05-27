@@ -1,121 +1,191 @@
-<!-- Start scroll to top feature -->
-    <a href="#" id="back-to-top" title="Back to Top"><i class="fa fa-fighter-jet"></i></a>
-    <!-- End scroll to top feature -->
-
-    <!-- Footer Area -->
-    <footer class="site-footer">
-        <!-- Footer Top Area -->
-        <div class="footer-top-area">
+ <!-- Footer Section Start -->
+        <footer class="footer-area pt-100">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-wid">
-                            <h2 class="footer-logo"><img src="assets/img/logo.png" alt="logo"></h2>
-                            <p>We are always ready to help you.</p>
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="footer-widget">
+                            <div class="footer-logo">
+                                <a href="index.html">
+                                    <img src="assets/img/logo.png" alt="logo">
+                                </a>
+                            </div>
+                            <p>Lorem ipsum dolor sit amet, mattetur adipiscing elit, sed do.</p>
 
-                            <p>210-2750 Quadra Street Victoria, Canada</p>
-                            <div class="address-info">
-                                <span>Phone: +324-5442-415</span>
-                                <span>Fax: +324-5442-415</span>
-                                <span>Email: <a href="https://templates.envytheme.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e99a9c9999869b9da98a86879a9d9b9c8a9d808687c78a8684">[email&#160;protected]</a></span>
+                            <div class="newsletter-area">
+                                <h3>Join Newsletter</h3>
+                                <form class="newsletter-form" data-toggle="validator">
+                                    <input type="email" class="form-control" placeholder="Email" name="EMAIL" required autocomplete="off">
+
+                                    <button class="default-btn subscribe-btn" type="submit">
+                                        Subscribe
+                                    </button>
+
+                                    <div id="validator-newsletter" class="form-result"></div>
+                                </form>
+                            </div>
+
+                            <div class="footer-social">
+                                <a href="https://www.facebook.com/login/" target="_blank"><i class='bx bxl-facebook'></i></a>
+                                <a href="https://twitter.com/login" target="_blank"><i class='bx bxl-twitter'></i></a>
+                                <a href="https://www.youtube.com/?gl=LK&amp;tab=r1" target="_blank"><i class='bx bxl-youtube'></i></a>
+                                <a href="https://www.instagram.com/accounts/login/" target="_blank"><i class='bx bxl-instagram'></i></a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-wid footer-menu">
-                            <h3 class="footer-wid-title">Quick Links</h3>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="footer-widget pl-35">
+                            <h3>Our Service</h3>
                             <ul>
-                                <li><a href="index.html"><i class="fa  fa-angle-right"></i> home</a></li>
-                                <li><a href="about.html"><i class="fa  fa-angle-right"></i> About</a></li>
-                                <li><a href="services.html"><i class="fa  fa-angle-right"></i> services</a></li>
-                                <li><a href="projects.html"><i class="fa  fa-angle-right"></i> projects</a></li>
-                                <li><a href="gallery.html"><i class="fa  fa-angle-right"></i> gallery</a></li>
-                                <li><a href="blog.html"><i class="fa  fa-angle-right"></i> blog</a></li>
-                                <li><a href="contact-us.html"><i class="fa  fa-angle-right"></i> contact</a></li>
+                                <li>
+                                   <a href="service-details.html">Apartment Design</a>
+                                </li>
+                                <li>
+                                    <a href="service-details.html">Expert Mechanical</a>
+                                </li>
+                                <li>
+                                    <a href="service-details.html">House Painting</a>
+                                </li>
+                                <li>
+                                    <a href="service-details.html">Repair Welding</a>
+                                </li>
+                                <li>
+                                    <a href="service-details.html">Construction</a>
+                                 </li>
+                                <li>
+                                    <a href="service-details.html">Management</a>
+                                </li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-wid">
-                            <h3 class="footer-wid-title">Recent Post</h3>
-                            <a class="single-footer-iem" href="single-post.html">
-                                <img src="assets/img/footer-thumb-img-1.jpg" alt="Image">
-                                <p>Construction Company</p>
-                                <span>June 10, 2024</span>
-                            </a>
-                            <a class="single-footer-iem" href="single-post.html">
-                                <img src="assets/img/footer-thumb-img-2.jpg" alt="Image">
-                                <p>Construction Company</p>
-                                <span>June 10, 2024</span>
-                            </a>
-                            <a class="single-footer-iem" href="single-post.html">
-                                <img src="assets/img/footer-thumb-img-3.jpg" alt="Image">
-                                <p>Construction Company</p>
-                                <span>June 10, 2024</span>
-                            </a>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="footer-widget pl-35">
+                            <h3>Quick Links</h3>
+                             <ul>
+                                <li>
+                                    <a href="faq.html">FAQ</a>
+                                </li>
+                                <li>
+                                    <a href="service.html">Services</a>
+                                </li>
+                                <li>
+                                    <a href="team.html">Team</a>
+                                </li>
+                                <li>
+                                    <a href="privacy.html">Privacy & Policy</a>
+                                </li>
+                                <li>
+                                    <a href="terms.html">Terms & Conditions</a>
+                                </li>
+                                <li>
+                                    <a href="contact.html">Contact Us</a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-wid">
-                            <h3 class="footer-wid-title">Connect With Us</h3>
-                            <span>Subscribe to Our Newsletter to get Important News, Amazing Offers & Inside Scoops:</span>
-                            <div class="subscribe">
-                                <form action="https://templates.envytheme.com/runhill/default/index.html">
-                                    <input type="text" placeholder="Type your email" />
-                                    <button>Subscribe</button>
-                                </form>
-                            </div>
-                            <div class="social-icos">
-                                <ul>
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="https://twitter.com/?lang=en" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                    <li><a href="https://www.google.co.uk/" target="_blank"><i class="fa-brands fa-google"></i></a></li>
-                                    <li><a href="https://bd.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                                    <li><a href="https://www.youtube.com/" target="_blank"><i class="fa-brands fa-youtube"></i></a></li>
-                                    <li><a href="https://www.pinterest.com/" target="_blank"><i class="fa-brands fa-pinterest-p"></i></a></li>
-                                </ul>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="footer-widget">
+                            <h3>Contacts</h3>
+                            <ul>
+                                <li>
+                                    <a href="tel:+112345789">
+                                        <i class='bx bxs-phone'></i>
+                                        +1 123 456 789
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="tel:+1321654987">
+                                        <i class='bx bxs-phone'></i>
+                                        +1 321 654 987
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#20454d41494c60585041540e434f4d">
+                                        <i class='bx bxs-envelope'></i>
+                                        <span class="__cf_email__" data-cfemail="640109050d08241c1405104a070b09">[email&#160;protected]</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#69010c050506291119081d470a0604">
+                                        <i class='bx bxs-envelope'></i>
+                                        <span class="__cf_email__" data-cfemail="91f9f4fdfdfed1e9e1f0e5bff2fefc">[email&#160;protected]</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <i class='bx bxs-location-plus'></i>
+                                    28/A street, New York, USA
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <div class="container">
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-lg-6">
+                             <ul>
+                                <li>
+                                    <a href="index.html">Home</a>
+                                </li>
+                                <li>
+                                    <a href="about.html">Company</a>
+                                </li>
+                                <li>
+                                    <a href="service.html">Services</a>
+                                </li>
+                                <li>
+                                    <a href="project.html">Projects</a>
+                                </li>
+                                <li>
+                                    <a href="blog.html">Blog Post</a>
+                                </li>
+                                <li>
+                                    <a href="contact.html">Contact Us</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-6">
+                            <div class="copyright-text">
+                                <p>© Xpat is Proudly Owned by <a href="https://hibootstrap.com/" target="_blank">Hibootsrap</a></p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div> <!-- End Footer Top -->
+        </footer>
+        <!-- Footer Section End -->
 
-        <!-- Footer Bottom Area -->
-        <div class="footer-copyright-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <p>
-                        Copyright <span>Runhill</span> All Rights Reserved by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a>
-                    </p>
-                    </div>
-                    <div class="col-lg-6 text-end">
-                        <a href="#">Terms & Condition</a> <span class="seprator">|</span> <a href="#">Privacy Policy</a>
-                    </div>
-                </div>
-            </div>
-        </div> <!-- End Footer Bottom Area -->
-    </footer> <!-- End Footer Area -->
+        <!-- Back Top Section Start -->
+        <div class="top-btn">
+            <i class='bx bx-up-arrow'></i>
+        </div>
+        <!-- Back Top Section End -->
 
-    <!-- Bootstrap JS file -->
-    <script data-cfasync="false" src="https://templates.envytheme.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/bootstrap.bundle.min.js"></script>
-    <!-- Jquery JS file -->
-    <script src="assets/js/jquery.min.js"></script>
-    <!-- Owl-Carousel JS file -->
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <!-- Slick-Nav JS file -->
-    <script src="assets/js/jquery.slicknav.min.js"></script>
-    <!-- Magnific Popup JS file -->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!-- Mixitup JS file -->
-    <script src="assets/js/mixitup.min.js"></script>
-    <!-- WOW JS file -->
-    <script src="assets/js/wow.min.js"></script>
-    <!-- Custom JS file -->
-    <script src="assets/js/active.js"></script>
-</body>
+        <!-- JQuery First, then Bootstrap JS -->
+        <script data-cfasync="false" src="https://templates.hibootstrap.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <!-- Owl Carousel JS -->
+        <script src="assets/js/owl.carousel.min.js"></script>
+        <!-- Magnific Popup Js -->
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <!-- Mixitup JS -->
+        <script src="assets/js/jquery.mixitup.min.js"></script>
+        <!-- Subscribe Form JS -->
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+        <!-- Form Velidation JS -->
+        <script src="assets/js/form-validator.min.js"></script>
+        <!-- Contact Form JS -->
+        <script src="assets/js/contact-form-script.js"></script>
+        <!-- Meanmenu JS -->
+        <script src="assets/js/meanmenu.js"></script>
+        <!-- Custom JS -->
+        <script src="assets/js/custom.js"></script>
+    </body>
 
-<!-- Mirrored from templates.envytheme.com/runhill/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 May 2025 13:32:13 GMT -->
+<!-- Mirrored from templates.hibootstrap.com/xpat/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 May 2025 20:45:18 GMT -->
 </html>
