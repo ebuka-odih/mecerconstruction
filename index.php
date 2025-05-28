@@ -70,7 +70,7 @@ include 'layout/header.php';
                                 <ul>
                                     <li>Experienced Project Managers & Engineers</li>
                                     <li>Transparent Pricing & Clear Timelines</li>
-                                    <li>Trusted by Clients Across Nigeria</li>
+                                    <li>Trusted by Clients Across Europe</li>
                                     <li>Compliance with Industry Standards and Safety Regulations</li>
                                 </ul>
                             </div>
