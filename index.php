@@ -83,13 +83,97 @@ include 'layout/header.php';
         </section>
         <!-- About Section End -->
 
+<section class="service-section pt-100 pb-100">
+            <div class="container">
+                <div class="section-title text-center">
+                    <span>Our Services</span>
+                    <p>Explore our wide range of construction solutions tailored to meet diverse needs — from ground-up builds to finishing touches.</p>
+                </div>
+
+                <div class="service-slider owl-carousel owl-theme owl-loaded owl-drag">
+
+
+
+
+
+
+
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1305px, 0px, 0px); transition: all; width: 4354px;"><div class="owl-item cloned" style="width: 425.333px; margin-right: 10px;"><div class="service-items">
+                        <div class="service-img">
+                            <img src="assets/img/service/2.jpg" alt="service image">
+                        </div>
+                        <div class="service-text">
+                            <h3>Building Construction</h3>
+                            <p>From residential homes to commercial complexes, we deliver robust and reliable structures built with precision and care.</p>
+                            <a href="services.php" class="service-btn">Read More</a>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 425.333px; margin-right: 10px;"><div class="service-items">
+                        <div class="service-img">
+                            <img src="assets/img/service/3.jpg" alt="service image">
+                        </div>
+                        <div class="service-text">
+                            <h3>Architectural Design</h3>
+                            <p>We transform ideas into blueprints, balancing aesthetics, function, and compliance for seamless project execution.</p>
+                            <a href="services.php" class="service-btn">Read More</a>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 425.333px; margin-right: 10px;"><div class="service-items">
+                        <div class="service-img">
+                            <img src="assets/img/service/2.jpg" alt="service image">
+                        </div>
+                        <div class="service-text">
+                            <h3>Structural Engineering</h3>
+                            <p>Our expert engineers ensure every build is safe, scalable, and sound — from foundations to finishing.</p>
+                            <a href="services.php" class="service-btn">Read More</a>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 425.333px; margin-right: 10px;"><div class="service-items">
+                        <div class="service-img">
+                            <img src="assets/img/service/1.jpg" alt="service image">
+                        </div>
+                        <div class="service-text">
+                            <h3>Renovation & Remodeling</h3>
+                            <p>Give old spaces new life. We handle remodeling projects with minimal disruption and maximum quality.</p>
+                            <a href="services.php" class="service-btn">Read More</a>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 425.333px; margin-right: 10px;"><div class="service-items">
+                        <div class="service-img">
+                            <img src="assets/img/service/2.jpg" alt="service image">
+                        </div>
+                        <div class="service-text">
+                            <h3>Road & Civil Infrastructure</h3>
+                            <p>
+                                We design and construct durable roads, drainage systems, and siteworks with a focus on long-term performance.
+                            </p>
+                            <a href="services.php" class="service-btn">Read More</a>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 425.333px; margin-right: 10px;"><div class="service-items">
+                        <div class="service-img">
+                            <img src="assets/img/service/3.jpg" alt="service image">
+                        </div>
+                        <div class="service-text">
+                            <h3>Project Management & Consulting</h3>
+                            <p>
+                                From concept to completion, our project managers coordinate all phases, ensuring timelines and budgets are met.
+                            </p>
+                            <a href="services.php" class="service-btn">Read More</a>
+                        </div>
+                    </div>
+                        </div>
+
+
+                    </div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="bx bx-chevrons-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="bx bx-chevrons-right"></i></button></div><div class="owl-dots disabled"></div></div>
+
+                <div class="service-link text-center">
+                    <p>Visit Our All Services. <a href="service.html">View More</a></p>
+                </div>
+            </div>
+        </section>
+
         <!-- Counter Section Start -->
         <section class="counter-section counter-style-two pt-100 pb-70">
             <div class="container">
                 <div class="section-title text-center">
-                    <span>Our Experience</span>
-                    <h2>Xpat Provides All Building Services</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. </p>
+                    <span>Our Track Record</span>
+                    <h2>Mecer Construction Delivers with Excellence</h2>
                 </div>
 
                 <div class="row justify-content-center">
