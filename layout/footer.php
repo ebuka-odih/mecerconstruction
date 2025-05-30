@@ -11,25 +11,6 @@
                             </div>
                             <p>Lorem ipsum dolor sit amet, mattetur adipiscing elit, sed do.</p>
 
-                            <div class="newsletter-area">
-                                <h3>Join Newsletter</h3>
-                                <form class="newsletter-form" data-toggle="validator">
-                                    <input type="email" class="form-control" placeholder="Email" name="EMAIL" required autocomplete="off">
-
-                                    <button class="default-btn subscribe-btn" type="submit">
-                                        Subscribe
-                                    </button>
-
-                                    <div id="validator-newsletter" class="form-result"></div>
-                                </form>
-                            </div>
-
-                            <div class="footer-social">
-                                <a href="https://www.facebook.com/login/" target="_blank"><i class='bx bxl-facebook'></i></a>
-                                <a href="https://twitter.com/login" target="_blank"><i class='bx bxl-twitter'></i></a>
-                                <a href="https://www.youtube.com/?gl=LK&amp;tab=r1" target="_blank"><i class='bx bxl-youtube'></i></a>
-                                <a href="https://www.instagram.com/accounts/login/" target="_blank"><i class='bx bxl-instagram'></i></a>
-                            </div>
                         </div>
                     </div>
 
@@ -38,22 +19,13 @@
                             <h3>Our Service</h3>
                             <ul>
                                 <li>
-                                   <a href="service-details.html">Apartment Design</a>
+                                   <a href="services.php">Building Construction</a>
                                 </li>
                                 <li>
-                                    <a href="service-details.html">Expert Mechanical</a>
+                                    <a href="services.php">Architectural Design</a>
                                 </li>
                                 <li>
-                                    <a href="service-details.html">House Painting</a>
-                                </li>
-                                <li>
-                                    <a href="service-details.html">Repair Welding</a>
-                                </li>
-                                <li>
-                                    <a href="service-details.html">Construction</a>
-                                 </li>
-                                <li>
-                                    <a href="service-details.html">Management</a>
+                                    <a href="services.php">Structural Engineering</a>
                                 </li>
                             </ul>
                         </div>
@@ -64,19 +36,10 @@
                             <h3>Quick Links</h3>
                              <ul>
                                 <li>
-                                    <a href="faq.html">FAQ</a>
+                                    <a href="index.php">Home</a>
                                 </li>
-                                <li>
-                                    <a href="service.html">Services</a>
-                                </li>
-                                <li>
-                                    <a href="team.html">Team</a>
-                                </li>
-                                <li>
-                                    <a href="privacy.html">Privacy & Policy</a>
-                                </li>
-                                <li>
-                                    <a href="terms.html">Terms & Conditions</a>
+                                 <li>
+                                    <a href="about.php">About Us</a>
                                 </li>
                                 <li>
                                     <a href="contact.html">Contact Us</a>
@@ -89,28 +52,17 @@
                         <div class="footer-widget">
                             <h3>Contacts</h3>
                             <ul>
-                                <li>
-                                    <a href="tel:+112345789">
-                                        <i class='bx bxs-phone'></i>
-                                        +1 123 456 789
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="tel:+1321654987">
-                                        <i class='bx bxs-phone'></i>
-                                        +1 321 654 987
-                                    </a>
-                                </li>
+<!--                                <li>-->
+<!--                                    <a href="tel:+112345789">-->
+<!--                                        <i class='bx bxs-phone'></i>-->
+<!--                                        +1 123 456 789-->
+<!--                                    </a>-->
+<!--                                </li>-->
+
                                 <li>
                                     <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#20454d41494c60585041540e434f4d">
                                         <i class='bx bxs-envelope'></i>
                                         <span class="__cf_email__" data-cfemail="640109050d08241c1405104a070b09">[email&#160;protected]</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#69010c050506291119081d470a0604">
-                                        <i class='bx bxs-envelope'></i>
-                                        <span class="__cf_email__" data-cfemail="91f9f4fdfdfed1e9e1f0e5bff2fefc">[email&#160;protected]</span>
                                     </a>
                                 </li>
                                 <li>
