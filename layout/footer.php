@@ -5,8 +5,9 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-widget">
                             <div class="footer-logo">
-                                <a href="index.html">
-                                    <img src="assets/img/logo.png" alt="logo">
+                                <a href="index.php">
+                                    <h3>Mecer Construction</h3>
+<!--                                    <img src="assets/img/logo.png" alt="logo">-->
                                 </a>
                             </div>
                             <p>Lorem ipsum dolor sit amet, mattetur adipiscing elit, sed do.</p>
@@ -78,32 +79,10 @@
             <div class="footer-bottom">
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
-                        <div class="col-lg-6">
-                             <ul>
-                                <li>
-                                    <a href="index.html">Home</a>
-                                </li>
-                                <li>
-                                    <a href="about.html">Company</a>
-                                </li>
-                                <li>
-                                    <a href="service.html">Services</a>
-                                </li>
-                                <li>
-                                    <a href="project.html">Projects</a>
-                                </li>
-                                <li>
-                                    <a href="blog.html">Blog Post</a>
-                                </li>
-                                <li>
-                                    <a href="contact.html">Contact Us</a>
-                                </li>
-                            </ul>
-                        </div>
 
                         <div class="col-lg-6">
                             <div class="copyright-text">
-                                <p>© Xpat is Proudly Owned by <a href="https://hibootstrap.com/" target="_blank">Hibootsrap</a></p>
+                                <p>© 2025 Mecer Construction </p>
                             </div>
                         </div>
                     </div>
