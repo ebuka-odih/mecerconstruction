@@ -17,7 +17,7 @@ include 'layout/header.php';
     </div>
     <!-- Page Title End -->
 
-  <!-- About Section Start -->
+    <!-- About Section Start -->
     <section class="about-style-two pt-100 pb-70">
         <div class="container">
             <div class="row align-items-center justify-content-center">
@@ -59,62 +59,72 @@ include 'layout/header.php';
             </div>
             <div class="container py-5">
 
-  <!-- About Us Section -->
-  <div class="row">
-    <div class="col-lg-10 mx-auto">
+                <!-- About Us Section -->
+                <div class="row">
+                    <div class="col-lg-10 mx-auto">
 
-      <h5 class="fw-bold text-uppercase mb-3">Reliable. Experienced. Built to Last.</h5>
+                        <h5 class="fw-bold text-uppercase mb-3">Reliable. Experienced. Built to Last.</h5>
 
-      <p>
-        Founded in 2015, <strong>Mecer Construction</strong> is an independent, client-focused construction company committed to delivering top-tier building solutions. We serve residential, commercial, and industrial clients with a reputation for quality, reliability, and transparency.
-      </p>
+                        <p>
+                            Founded in 2015, <strong>Mecer Construction</strong> is an independent, client-focused
+                            construction company committed to delivering top-tier building solutions. We serve
+                            residential, commercial, and industrial clients with a reputation for quality, reliability,
+                            and transparency.
+                        </p>
 
-      <p>
-        Our team of skilled engineers, project managers, and site professionals brings decades of combined experience to every job. From concept to completion, we deliver construction services that meet the highest standards—on time and within budget.
-      </p>
+                        <p>
+                            Our team of skilled engineers, project managers, and site professionals brings decades of
+                            combined experience to every job. From concept to completion, we deliver construction
+                            services that meet the highest standards—on time and within budget.
+                        </p>
 
-      <p>
-        We approach every project with precision, collaboration, and an unwavering focus on safety and client satisfaction. Whether you're building from the ground up or renovating a space, Mecer Construction is your trusted partner.
-      </p>
+                        <p>
+                            We approach every project with precision, collaboration, and an unwavering focus on safety
+                            and client satisfaction. Whether you're building from the ground up or renovating a space,
+                            Mecer Construction is your trusted partner.
+                        </p>
 
-      <h6 class="fw-bold mt-4">Why Choose Mecer</h6>
-      <ul class="mb-4">
-        <li>Tailored construction solutions for every project size</li>
-        <li>Experienced workforce and project leadership</li>
-        <li>Commitment to timelines, safety, and quality</li>
-        <li>Transparent pricing and reliable project updates</li>
-      </ul>
+                        <h6 class="fw-bold mt-4">Why Choose Mecer</h6>
+                        <ul class="mb-4">
+                            <li>Tailored construction solutions for every project size</li>
+                            <li>Experienced workforce and project leadership</li>
+                            <li>Commitment to timelines, safety, and quality</li>
+                            <li>Transparent pricing and reliable project updates</li>
+                        </ul>
 
-      <p class="fw-semibold">
-        Built on trust. Driven by results.
-      </p>
+                        <p class="fw-semibold">
+                            Built on trust. Driven by results.
+                        </p>
 
-    </div>
-  </div>
+                    </div>
+                </div>
 
-  <!-- Mission & Vision Section -->
-  <div class="row mt-5">
-    <div class="col-md-6">
-      <h3 class="fw-bold mb-3">Our Mission</h3>
-      <p>
-        To deliver high-quality construction services that exceed expectations—through skilled craftsmanship, safety-first practices, and a commitment to client success from start to finish.
-      </p>
-    </div>
-    <div class="col-md-6">
-      <h3 class="fw-bold mb-3">Our Vision</h3>
-      <p>
-        To be a trusted leader in the construction industry, known for building lasting structures, strong relationships, and a legacy of excellence in every community we serve.
-      </p>
-    </div>
-  </div>
+                <!-- Mission & Vision Section -->
+                <div class="row mt-5">
+                    <div class="col-md-6">
+                        <h3 class="fw-bold mb-3">Our Mission</h3>
+                        <p>
+                            To deliver high-quality construction services that exceed expectations—through skilled
+                            craftsmanship, safety-first practices, and a commitment to client success from start to
+                            finish.
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <h3 class="fw-bold mb-3">Our Vision</h3>
+                        <p>
+                            To be a trusted leader in the construction industry, known for building lasting structures,
+                            strong relationships, and a legacy of excellence in every community we serve.
+                        </p>
+                    </div>
+                </div>
 
-</div>
+            </div>
         </div>
 
     </section>
     <!-- About Section End -->
 
-        <!-- Counter Section Start -->
+    <!-- Counter Section Start -->
     <section class="counter-section counter-style-two pt-100 pb-70 ">
         <div class="container">
             <div class="section-title text-center">
@@ -158,8 +168,6 @@ include 'layout/header.php';
         </div>
     </section>
     <!-- Counter Section End -->
-
-
 
 
 <?php
