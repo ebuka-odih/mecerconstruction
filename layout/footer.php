@@ -10,7 +10,7 @@
 <!--                                    <img src="assets/img/logo.png" alt="logo">-->
                                 </a>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, mattetur adipiscing elit, sed do.</p>
+                            <p>Construction with Purpose, Projects with Pride.</p>
 
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                                     <a href="about.php">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact Us</a>
+                                    <a href="contact.php">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
@@ -61,9 +61,9 @@
 <!--                                </li>-->
 
                                 <li>
-                                    <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#20454d41494c60585041540e434f4d">
+                                    <a href="mailto:info@mecerconstruction.com" target="_blank">
                                         <i class='bx bxs-envelope'></i>
-                                        <span class="__cf_email__" data-cfemail="640109050d08241c1405104a070b09">[email&#160;protected]</span>
+                                        <span>info@mecerconstruction.com</span>
                                     </a>
                                 </li>
                                 <li>
