@@ -68,17 +68,18 @@
                         <div class="header-right">
                             <ul>
                                 <li>
+                                    <i class='bx bxs-envelope'></i>
+                                    <a href="mailto:info@mecercontruction.com">info@mecercontruction.com</a>
+                                </li>
+                                <li>
                                     <i class='bx bxs-time-five'></i>
-                                    SAT - THU (10:00 AM - 6:00PM)
+                                    MON - FRI (10:00 AM - 5:00PM)
                                 </li>
                                 <li>
                                     <i class='bx bxs-location-plus'></i>
-                                    28/A Street, New York, USA
+                                    4289 Willow Creek Blvd, Dallas, TX 75219 United States
                                 </li>
-                                <li>
-                                    <i class='bx bxs-phone'></i>
-                                    <a href="tel:+1123456789">+1123 456 789</a>
-                                </li>
+
                             </ul>
                         </div>
                     </div>
