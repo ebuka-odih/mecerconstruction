@@ -118,7 +118,7 @@
                                     <a href="services.php" class="nav-link">Services</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contact.html" class="nav-link">Contact Us</a>
+                                    <a href="contact.php" class="nav-link">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
