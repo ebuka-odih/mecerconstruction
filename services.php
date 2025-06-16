@@ -73,7 +73,7 @@ include 'layout/header.php';
                 <div class="col-lg-4 col-sm-6">
                     <div class="blog-card">
                         <div class="blog-img">
-                            <a><img src="assets/img/blog/3.jpg" alt="blog image"></a>
+                            <a><img src="img2/7.jpg" alt="blog image"></a>
                             <span>Structural Engineering</span>
                         </div>
                         <div class="blog-text">
