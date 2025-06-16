@@ -20,10 +20,11 @@ include 'layout/header.php';
     <!-- About Section Start -->
     <section class="about-style-two pt-100 pb-70">
         <div class="container">
-            <div class="row align-items-center justify-content-center">
+
+            <div class="row align-items-center justify-content-center ">
                 <div class="col-lg-5">
                     <div class="about-img">
-                        <img src="assets/img/about/2.jpg" alt="about image">
+                        <img src="img2/5.webp" alt="about image">
                     </div>
                 </div>
 
@@ -118,6 +119,33 @@ include 'layout/header.php';
                     </div>
                 </div>
 
+            </div>
+
+             <div class="row align-items-center justify-content-center mt-5">
+                <div class="col-lg-5">
+                    <div class="about-img">
+                        <img src="img2/6.jpeg" alt="about image">
+                    </div>
+                </div>
+
+                <div class="col-lg-7">
+                    <div class="about-text">
+                        <div class="section-title">
+                            <h4>Brenda R. Harris</h4>
+                        </div>
+                        <p>
+                            Brenda R. Harris, a passionate civil engineer specialist and entrepreneur dedicated to delivering innovative solutions.
+                            As a civil engineer with over 20 years of experience, She had the privilege of working on diverse projects that shape our built environment. Her expertise spans:
+                        </p>
+                        <ul class="mb-4">
+                            <li>infrastructure development</li>
+                            <li>Geotechnical engineering</li>
+                            <li>Structural analysis</li>
+                            <li>Project management</li>
+                        </ul>
+
+                    </div>
+                </div>
             </div>
         </div>
 
