@@ -296,62 +296,8 @@ include 'layout/header.php';
     <!-- Project Section Start -->
     <section class="project-section pt-100 pb-100">
         <div class="container">
-            <div class="section-title text-center">
-                <span>Our Projects</span>
-                <h2>We Have Some Completed Projects</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-            </div>
+           
 
-            <div class="project-slider owl-carousel owl-theme">
-                <div class="project-item">
-                    <img src="assets/img/project/1.jpg" alt="project image">
-
-                    <div class="project-link">
-                        <p>Building Construction, UK</p>
-                        <a href="project-details.html">
-                            <i class='bx bx-plus'></i>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="project-item">
-                    <img src="assets/img/project/2.jpg" alt="project image">
-
-                    <div class="project-link">
-                        <p>Bridge Construction, New York</p>
-                        <a href="project-details.html">
-                            <i class='bx bx-plus'></i>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="project-item">
-                    <img src="assets/img/project/3.jpg" alt="project image">
-
-                    <div class="project-link">
-                        <p>Museum Construction, New York</p>
-                        <a href="project-details.html">
-                            <i class='bx bx-plus'></i>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="project-item">
-                    <img src="assets/img/project/2.jpg" alt="project image">
-
-                    <div class="project-link">
-                        <p>Bridge Construction, New York, USA</p>
-                        <a href="project-details.html">
-                            <i class='bx bx-plus'></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="project-btn text-center">
-                <p>Visit Our All Projects. <a href="project.html">View More</a></p>
-            </div>
         </div>
     </section>
     <!-- Project Section End -->
