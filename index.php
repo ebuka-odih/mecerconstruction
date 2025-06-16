@@ -51,7 +51,7 @@ include 'layout/header.php';
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-5">
                     <div class="about-img">
-                        <img src="assets/img/about/2.jpg" alt="about image">
+                        <img src="img2/1.jpg" alt="about image">
                     </div>
                 </div>
 
@@ -108,7 +108,7 @@ include 'layout/header.php';
                         <div class="owl-item cloned" style="width: 425.333px; margin-right: 10px;">
                             <div class="service-items">
                                 <div class="service-img">
-                                    <img src="assets/img/service/2.jpg" alt="service image">
+                                    <img height="250" src="assets/img/service/2.jpg" alt="service image">
                                 </div>
                                 <div class="service-text">
                                     <h3>Building Construction</h3>
@@ -121,7 +121,7 @@ include 'layout/header.php';
                         <div class="owl-item cloned" style="width: 425.333px; margin-right: 10px;">
                             <div class="service-items">
                                 <div class="service-img">
-                                    <img src="assets/img/service/3.jpg" alt="service image">
+                                    <img height="250" src="img2/4.webp" alt="service image">
                                 </div>
                                 <div class="service-text">
                                     <h3>Architectural Design</h3>
@@ -134,7 +134,7 @@ include 'layout/header.php';
                         <div class="owl-item cloned" style="width: 425.333px; margin-right: 10px;">
                             <div class="service-items">
                                 <div class="service-img">
-                                    <img src="assets/img/service/2.jpg" alt="service image">
+                                    <img height="250" src="assets/img/service/2.jpg" alt="service image">
                                 </div>
                                 <div class="service-text">
                                     <h3>Structural Engineering</h3>
@@ -147,7 +147,7 @@ include 'layout/header.php';
                         <div class="owl-item active" style="width: 425.333px; margin-right: 10px;">
                             <div class="service-items">
                                 <div class="service-img">
-                                    <img src="assets/img/service/1.jpg" alt="service image">
+                                    <img height="250" src="assets/img/service/1.jpg" alt="service image">
                                 </div>
                                 <div class="service-text">
                                     <h3>Renovation & Remodeling</h3>
@@ -160,7 +160,7 @@ include 'layout/header.php';
                         <div class="owl-item active" style="width: 425.333px; margin-right: 10px;">
                             <div class="service-items">
                                 <div class="service-img">
-                                    <img src="assets/img/service/2.jpg" alt="service image">
+                                    <img height="250" src="img2/2.jpg" alt="service image">
                                 </div>
                                 <div class="service-text">
                                     <h3>Road & Civil Infrastructure</h3>
@@ -175,7 +175,7 @@ include 'layout/header.php';
                         <div class="owl-item active" style="width: 425.333px; margin-right: 10px;">
                             <div class="service-items">
                                 <div class="service-img">
-                                    <img src="assets/img/service/3.jpg" alt="service image">
+                                    <img height="250" src="img2/3.jpg" alt="service image">
                                 </div>
                                 <div class="service-text">
                                     <h3>Project Management & Consulting</h3>
