@@ -1,122 +1,192 @@
- <!-- Footer Section Start -->
-        <footer class="footer-area pt-100">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="footer-widget">
-                            <div class="footer-logo">
-                                <a href="index.php">
-                                    <h3>Mecer Construction</h3>
-<!--                                    <img src="assets/img/logo.png" alt="logo">-->
-                                </a>
-                            </div>
-                            <p>Construction with Purpose, Projects with Pride.</p>
 
-                        </div>
+    <footer class="gap no-bottom three" style="background-image: url(assets/img/footer.jpg);">
+        <div class="container">
+            <div class="row position-relative footer-boder">
+                <div class="col-lg-3">
+                    <div class="logo">
+                        <a href="index-2.html"><img src="assets/img/logo.png" alt="img"></a>
                     </div>
-
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="footer-widget pl-35">
-                            <h3>Our Service</h3>
-                            <ul>
-                                <li>
-                                   <a href="services.php">Building Construction</a>
-                                </li>
-                                <li>
-                                    <a href="services.php">Architectural Design</a>
-                                </li>
-                                <li>
-                                    <a href="services.php">Structural Engineering</a>
-                                </li>
-                            </ul>
-                        </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="logo-heading">
+                        <p>Building your own home is about desire, fantasy. But it’s achievable anyone can do it.</p>
                     </div>
-
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="footer-widget pl-35">
-                            <h3>Quick Links</h3>
-                             <ul>
-                                <li>
-                                    <a href="index.php">Home</a>
-                                </li>
-                                 <li>
-                                    <a href="about.php">About Us</a>
-                                </li>
-                                <li>
-                                    <a href="contact.php">Contact Us</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="footer-widget">
-                            <h3>Contacts</h3>
-                            <ul>
-<!--                                <li>-->
-<!--                                    <a href="tel:+112345789">-->
-<!--                                        <i class='bx bxs-phone'></i>-->
-<!--                                        +1 123 456 789-->
-<!--                                    </a>-->
-<!--                                </li>-->
-
-                                <li>
-                                    <a href="mailto:info@mecerconstruction.com" target="_blank">
-                                        <i class='bx bxs-envelope'></i>
-                                        <span>info@mecerconstruction.com</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <i class='bx bxs-location-plus'></i>
-                                    28/A street, New York, USA
-                                </li>
-                            </ul>
-                        </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="footer-btn">
+                        <a href="#" class="theme-btn w-color">Subscribe Newsletter</a>
                     </div>
                 </div>
             </div>
-
-            <div class="footer-bottom">
-                <div class="container">
-                    <div class="row align-items-center justify-content-center">
-
-                        <div class="col-lg-6">
-                            <div class="copyright-text">
-                                <p>© 2025 Mecer Construction </p>
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-contact">
+                        <h3>Contact Us</h3>
+                        <a href="#"><span>P:</span> +44 208 068 2811</a>
+                        <a href="#"><span>E:</span> +44 208 068 2811</a>
+                        <div class="img-slider swiper">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <img src="assets/img/hero-three-1.jpg" alt="img">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="assets/img/hero-three-2.jpg" alt="img">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="assets/img/hero-three-3.jpg" alt="img">
+                                </div>
+                            </div>
+                            <div class="swiper-pagination"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-contact widget-title">
+                        <h3>Quick Links</h3>
+                        <ul>
+                            <li><i class="fa-solid fa-caret-right"></i><a href="about.html">About </a></li>
+                            <li><i class="fa-solid fa-caret-right"></i><a href="#">Team </a></li>
+                            <li><i class="fa-solid fa-caret-right"></i><a href="#">Testimonials </a></li>
+                            <li><i class="fa-solid fa-caret-right"></i><a href="#">Blog Grid </a></li>
+                            <li><i class="fa-solid fa-caret-right"></i><a href="#">News </a></li>
+                            <li><i class="fa-solid fa-caret-right"></i><a href="#">Contact</a></li>
+                            <li><i class="fa-solid fa-caret-right"></i><a href="#">Projects </a></li>
+                            <li><i class="fa-solid fa-caret-right"></i><a href="#">Team </a></li>
+                            <li><i class="fa-solid fa-caret-right"></i><a href="#">About </a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-contact footer_widget_title">
+                        <h3>Offices Location</h3>
+                        <div class="location">
+                            <div><i class="flaticon-map-location"></i></div>
+                            <div class="location-style">
+                                <h6>Location 1:</h6>
+                                <p>1418 , Steert, Suite 3845 California, USA</p>
+                            </div>
+                        </div>
+                        <div class="location">
+                            <div> <i class="flaticon-map-location"></i></div>
+                            <div class="location-style">
+                                <h6>Location 1:</h6>
+                                <p>1418 , Steert, Suite 3845 California, USA</p>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-contact">
+                        <h3>Follow Us</h3>
+                        <ul class="footer-social-media">
+                            <li><a href="#"><i class="fa-brands fa-instagram"></i>Instagram</a></li>
+                            <li><a href="#"><i class="fa-brands fa-youtube"></i>Youtube</a></li>
+                            <li><a href="#"><i class="fa-brands fa-linkedin-in"></i>LinkedIn</a></li>
+                            <li><a href="#"><i class="fa-brands fa-facebook-f"></i>Facebook</a></li>
+                            <li><a href="#"><i class="fa-brands fa-twitter"></i>Twitter</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-        </footer>
-        <!-- Footer Section End -->
-
-        <!-- Back Top Section Start -->
-        <div class="top-btn">
-            <i class='bx bx-up-arrow'></i>
+            <div class="f-bottom">
+                <p>© Copyright 2024. All Rights Reserved by <a href="#"> Winsfolio.net</a></p>
+                <ul>
+                    <li>
+                        <a href="#">Sitemap</a>
+                    </li>
+                    <li>
+                        <a href="contact.html"> Contact</a>
+                    </li>
+                    <li>
+                        <a href="#">Privacy Policy</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-        <!-- Back Top Section End -->
+    </footer>
+    <div class="search-popup">
+        <button class="close-search"><i class="fa-solid fa-xmark"></i></button>
+        <form method="post" action="#">
+            <div class="form-group">
+                <input type="search" name="search-field" value="" placeholder="Search Here" required="">
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </div>
+        </form>
+    </div>
+    <div id="lightbox" class="lightbox clearfix">
+        <div class="white_content">
+            <a href="javascript:;" class="textright" id="close"><i class="fa-regular fa-circle-xmark"></i></a>
+            <div class="cart-popup">
+                <ul>
 
-        <!-- JQuery First, then Bootstrap JS -->
-        <script data-cfasync="false" src="https://templates.hibootstrap.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
-        <!-- Owl Carousel JS -->
-        <script src="assets/js/owl.carousel.min.js"></script>
-        <!-- Magnific Popup Js -->
-        <script src="assets/js/jquery.magnific-popup.min.js"></script>
-        <!-- Mixitup JS -->
-        <script src="assets/js/jquery.mixitup.min.js"></script>
-        <!-- Subscribe Form JS -->
-        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
-        <!-- Form Velidation JS -->
-        <script src="assets/js/form-validator.min.js"></script>
-        <!-- Contact Form JS -->
-        <script src="assets/js/contact-form-script.js"></script>
-        <!-- Meanmenu JS -->
-        <script src="assets/js/meanmenu.js"></script>
-        <!-- Custom JS -->
-        <script src="assets/js/custom.js"></script>
-    </body>
+                    <li class="d-flex align-items-center position-relative">
 
-<!-- Mirrored from templates.hibootstrap.com/xpat/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 May 2025 20:45:18 GMT -->
-</html>
+                        <div class="p-img  ">
+
+                            <img src="assets/img/pd-gallery-img1.png" alt="Product Image">
+
+                        </div>
+
+                        <div class="p-data">
+
+                            <h3>Wood Cutting Circular</h3>
+
+                            <p class="theme-clr  ">1 x $20.50</p>
+
+                        </div>
+
+                        <a href="JavaScript:void(0)" id="crosss"></a>
+
+                    </li>
+
+                    <li class="d-flex align-items-center position-relative">
+
+                        <div class="p-img light-bg">
+
+                            <img src="assets/img/pd-gallery-img2.png" alt="Product Image">
+
+                        </div>
+
+                        <div class="p-data">
+
+                            <h3>Drill Machine</h3>
+
+                            <p class="theme-clr">1 x $20.60</p>
+
+                        </div>
+
+                        <a href="JavaScript:void(0)" id="cross"></a>
+
+                    </li>
+
+                </ul>
+                <div class="pr-total">
+                    <div class="cart-total d-flex align-items-center justify-content-between">
+
+                        <span class="font-semi-bold">Total:</span>
+
+                        <span class="font-semi-bold">$41.20</span>
+
+                    </div>
+
+                    <div class="cart-btns d-flex align-items-center justify-content-between">
+
+                        <a href="JavaScript:void">View Cart</a>
+
+                        <a class="theme-bg-clr text-white checkout" href="JavaScript:void">Checkout</a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- search-popup end -->
+    <div id="scroll-percentage"><span id="scroll-percentage-value"></span></div>
+    <!-- Bootstrap Js -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/swiper.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <!-- fancybox -->
+    <script src="assets/js/jquery.fancybox.min.js"></script>
+    <script src="assets/js/custom.js"></script>
+</body>

@@ -1,129 +1,196 @@
-
 <!DOCTYPE html>
 <html lang="zxx">
+
+
+<!-- Mirrored from winsfolio.net/html/natex/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 Jun 2025 22:51:59 GMT -->
+
 <head>
-        <!-- Required Meta Tags -->
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <!-- Boxicon CSS -->
-        <link rel="stylesheet" href="assets/css/boxicons.min.css">
-        <!-- Flaticon CSS -->
-        <link rel="stylesheet" href="assets/fonts/flaticon/flaticon.css">
-        <!-- Animate CSS -->
-        <link rel="stylesheet" href="assets/css/animate.min.css">
-        <!-- Owl Carousel CSS -->
-        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-        <!-- Owl Carousel Theme CSS -->
-        <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-        <!-- Magnific Popup CSS -->
-        <link rel="stylesheet" href="assets/css/magnific-popup.css">
-        <!-- Meanmenu CSS -->
-        <link rel="stylesheet" href="assets/css/meanmenu.css">
-        <!-- Style CSS -->
-        <link rel="stylesheet" href="assets/css/style.css">
-        <!-- Dark CSS -->
-        <link rel="stylesheet" href="assets/css/dark.css">
-        <!-- Responsive CSS -->
-        <link rel="stylesheet" href="assets/css/responsive.css">
-        <!-- Title -->
-        <title>Mercer Constructions</title>
-        <!-- Favicon -->
-        <link rel="icon" type="image/png" href="assets/img/favicon.png">
-    </head>
-    <body>
-        <!-- Preloader Start -->
-        <div class="loader-content">
-            <div class="d-table">
-                <div class="d-table-cell">
-                    <div class="sk-folding-cube">
-                        <div class="sk-cube1 sk-cube"></div>
-                        <div class="sk-cube2 sk-cube"></div>
-                        <div class="sk-cube4 sk-cube"></div>
-                        <div class="sk-cube3 sk-cube"></div>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Natex - Home</title>
+    <link rel="icon" href="assets/img/heading-img.png">
+    <!-- CSS only -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/swiper.css">
+    <!-- fancybox -->
+    <link rel="stylesheet" href="assets/css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="assets/font/flaticon_xyz.css">
+    <!-- Font Awesome 6 -->
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <!-- style -->
+    <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
+    <link rel="stylesheet" href="assets/css/main.css">
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/preloader.js"></script>
+</head>
+
+<body>
+    <!-- preloader -->
+    <div class="preloader">
+        <div class="preloader-box">
+            <div class="natex-content">
+                <div class="natex-circle"></div>
+                <div class="natex-line-mask">
+                    <div class="loader-line"></div>
+                </div>
+                <img src="assets/img/natex-preloader.png" alt="">
+            </div>
+        </div>
+    </div>
+    <!-- preloader end -->
+    <!-- header -->
+    <header>
+        <div class="header-bottom-bar">
+            <div class="container">
+                <div class="bottom-bar">
+                    <div class="two-bar">
+                        <div class="d-flex align-items-center justify-content-between">
+                            <div class="logo">
+                                <a href="index-2.html">
+                                    <img alt="logo" src="assets/img/logo.png">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="javascript:void(0)" id="mobile-menu" class="menu-start">
+                        <i class="fa-solid fa-bars"></i>
+                    </a>
+                    <nav class="navbar">
+                        <ul class="navbar-links">
+                            <li class="navbar-dropdown menu-item-children">
+                                <a href="#">Home</a>
+                                <ul class="sub-menu">
+                                    <li><a href="index-2.html">home 1</a></li>
+                                    <li><a href="index-3.html">home 2</a></li>
+                                    <li><a href="index-4.html">home 3</a></li>
+                                </ul>
+                            </li>
+                            <li class="navbar-dropdown">
+                                <a href="about.html">about</a>
+                            </li>
+                            <li class="navbar-dropdown menu-item-children">
+                                <a href="#">projects</a>
+                                <ul class="sub-menu">
+                                    <li><a href="our-projects.html">our projects</a></li>
+                                    <li><a href="our-projects-2.html">our projects 2</a></li>
+                                    <li><a href="projects-details.html">projects details</a></li>
+                                </ul>
+                            </li>
+                            <li class="navbar-dropdown menu-item-children">
+                                <a href="#">pages</a>
+                                <ul class="sub-menu">
+                                    <li class="navbar-dropdown menu-item-children">
+                                        <a href="#">Services</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="our-service.html">our service</a></li>
+                                            <li><a href="service-details.html">service details</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="our-team.html">our team</a></li>
+                                    <li><a href="team-details.html">team details</a></li>
+                                    <li><a href="faqs.html">faqs</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="navbar-dropdown menu-item-children">
+                                <a href="#">shop</a>
+                                <ul class="sub-menu ">
+                                    <li><a href="shop.html">shop</a></li>
+                                    <li><a href="product-details.html">product details</a></li>
+                                    <li><a href="cart.html">cart</a></li>
+                                    <li><a href="checkout.html">checkout</a></li>
+                                </ul>
+                            </li>
+                            <li class="navbar-dropdown menu-item-children">
+                                <a href="#">News</a>
+                                <ul class="sub-menu ">
+                                    <li><a href="our-blog.html">our blog</a></li>
+                                    <li><a href="blog-details.html">blog details</a></li>
+                                    <li><a href="blog-details-2.html">blog details 2</a></li>
+                                </ul>
+                            </li>
+                            <li class="navbar-dropdown">
+                                <a href="contact.html">Contact</a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="header-search">
+                        <div class="header-search-button search-box-outer">
+                            <a href="javascript:void(0)" class="search-btn">
+                                <i class="flaticon-search"></i>
+                            </a>
+                        </div>
+                        <div class="donation">
+                            <span>2</span>
+                            <a href="JavaScript:void(0)" class="mx-0" id="show">
+                                <i class="flaticon-shop-cart"></i>
+                            </a>
+                        </div>
+                        <a href="#" class="theme-btn w-color"> Request a Quote</a>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Preloader End -->
-
-        <!-- Header Area Start -->
-        <header class="header-area">
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-md-4">
-                        <div class="header-left">
-<!--                            <a href="https://www.facebook.com/login/" target="_blank"><i class='bx bxl-facebook'></i></a>-->
-<!--                            <a href="https://twitter.com/login" target="_blank"><i class='bx bxl-twitter'></i></a>-->
-<!--                            <a href="https://mail.google.com/mail/u/0/" target="_blank"><i class='bx bxs-envelope'></i></a>-->
-<!--                            <a href="https://www.youtube.com/?gl=LK&amp;tab=r1" target="_blank"><i class='bx bxl-youtube'></i></a>-->
-<!--                            <a href="https://www.instagram.com/accounts/login/" target="_blank"><i class='bx bxl-instagram'></i></a>-->
-<!--                            <a href="https://www.google.com/" target="_blank"><i class='bx bxl-google-plus'></i></a>-->
-<!--                       -->
-                        </div>
-                    </div>
-
-                    <div class="col-md-8">
-                        <div class="header-right">
-                            <ul>
-                                <li>
-                                    <i class='bx bxs-envelope'></i>
-                                    <a href="mailto:info@mecercontruction.com">info@mecercontruction.com</a>
-                                </li>
-                                <li>
-                                    <i class='bx bxs-time-five'></i>
-                                    MON - FRI (10:00 AM - 5:00PM)
-                                </li>
-                                <li>
-                                    <i class='bx bxs-location-plus'></i>
-                                    4289 Willow Creek Blvd, Dallas, TX 75219 United States
-                                </li>
-
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-        <!-- Header Area End -->
-
-      <!-- Navbar Area Start -->
-        <div class="navbar-area">
-            <!-- Menu For Mobile Device -->
-            <div class="mobile-nav">
-                <a href="index.php" class="logo">
-                    <h3 style="color: white">Mecer Construction</h3>
-<!--                    <img src="assets/img/logo.png" alt="logo">-->
+        <div class="mobile-nav" id="mobile-nav" style="background-image: url(assets/img/bg-full-lins.jpg); ">
+            <div class="res-log">
+                <a href="index-2.html">
+                    <img alt="logo" src="assets/img/logo.png">
                 </a>
             </div>
-
-            <!-- Menu For Desktop Device -->
-            <div class="main-nav">
-                <div class="container">
-                    <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="index.php">
-                            <h3 style="color: white">Mecer Construction</h3>
-<!--                            <img src="assets/img/logo.png" alt="logo">-->
-                        </a>
-                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                            <ul class="navbar-nav ms-auto">
-                                <li class="nav-item">
-                                    <a href="index.php" class="nav-link">Home</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="about.php" class="nav-link">About Us</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="services.php" class="nav-link">Services</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="contact.php" class="nav-link">Contact Us</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </nav>
-                </div>
-            </div>
+            <ul>
+                <li class="menu-item-has-children">
+                    <a href="javascript:void(0)">Home</a>
+                    <ul class="sub-menu">
+                        <li><a href="index-2.html">home 1</a></li>
+                        <li><a href="index-3.html">home 2</a></li>
+                        <li><a href="index-4.html">home 3</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="about.html">about</a>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="javascript:void(0)">projects</a>
+                    <ul class="sub-menu">
+                        <li><a href="our-projects.html">our projects</a></li>
+                        <li><a href="our-projects-2.html">our projects 2</a></li>
+                        <li><a href="projects-details.html">projects details</a></li>
+                    </ul>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="javascript:void(0)">pages</a>
+                    <ul class="sub-menu">
+                        <li><a href="our-service.html">our service</a></li>
+                        <li><a href="service-details.html">service details</a></li>
+                        <li><a href="our-team.html">our team</a></li>
+                        <li><a href="team-details.html">team details</a></li>
+                        <li><a href="faqs.html">faqs</a></li>
+                    </ul>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="javascript:void(0)">shop</a>
+                    <ul class="sub-menu">
+                        <li><a href="shop.html">shop</a></li>
+                        <li><a href="product-details.html">product details</a></li>
+                        <li><a href="cart.html">cart</a></li>
+                        <li><a href="checkout.html">checkout</a></li>
+                    </ul>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="javascript:void(0)">News</a>
+                    <ul class="sub-menu">
+                        <li><a href="our-blog.html">our blog</a></li>
+                        <li><a href="blog-details.html">blog details</a></li>
+                        <li><a href="blog-details-2.html">blog details 2</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+            <a href="JavaScript:void(0)" id="res-cross"></a>
         </div>
-        <!-- Navbar Area End -->
+    </header>
+   
+
