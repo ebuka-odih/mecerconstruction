@@ -25,11 +25,6 @@ include 'layout/header2.php'
         <div class="col-lg-6">
           <div class="heading two">
             <p>At Mecer Construction, we believe in building more than just structures—we build relationships, communities, and lasting legacies. Our commitment to excellence, safety, and innovation has made us a trusted name in residential, commercial, and industrial construction.<br><br> Our team of experienced engineers, project managers, and skilled craftsmen work collaboratively to ensure every project meets the highest standards of quality, safety, and efficiency. We pride ourselves on delivering projects on time and within budget while exceeding client expectations.</p>
-            <div class="architect-text two">
-              <img src="assets/img/signature.png" alt="img">
-              <h3>John D. Miller</h3>
-              <p>CEO & Founder<br> Mecer Construction</p>
-            </div>
           </div>
         </div>
         <div class="col-lg-6">
@@ -51,6 +46,44 @@ include 'layout/header2.php'
       </div>
     </div>
   </section>
+
+  <!-- CEO Section -->
+  <section class="gap">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-5">
+          <div class="ceo-image">
+            <img src="img2/ceo.jpeg" alt="Brenda R. Harris - CEO" class="img-fluid rounded">
+          </div>
+        </div>
+        <div class="col-lg-7">
+          <div class="ceo-content">
+            <div class="heading two">
+              <span>Leadership</span>
+              <h2>Meet Our CEO</h2>
+              <h3>Brenda R. Harris</h3>
+              <h6>Chief Executive Officer & Founder</h6>
+              <p>
+                Brenda R. Harris is the visionary leader behind Mecer Construction's success. With over 15 years of experience in the construction industry, Brenda has built a reputation for excellence, innovation, and unwavering commitment to quality.
+              </p>
+              <p>
+                Under her leadership, Mecer Construction has grown from a small local contractor to a respected construction company serving clients across Connecticut and beyond. Brenda's hands-on approach and attention to detail ensure that every project meets the highest standards of quality and safety.
+              </p>
+              <p>
+                Her passion for sustainable building practices and community development drives the company's mission to create lasting structures that enhance the communities we serve.
+              </p>
+              <div class="architect-text two">
+                <img src="assets/img/signature.png" alt="img">
+                <h3>Brenda R. Harris</h3>
+                <p>CEO & Founder<br> Mecer Construction</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section class="gap no-top">
     <div class="container">
       <div class="heading sec-title-animation animation-style2">

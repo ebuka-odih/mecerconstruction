@@ -3,7 +3,8 @@
             <div class="row position-relative footer-boder">
                 <div class="col-lg-3">
                     <div class="logo">
-                        <a href="index.php"><img src="assets/img/logo.png" alt="img"></a>
+                        <h3 style="color: white">Mecer Construction</h3>
+                        <!-- <a href="index.php"><img src="assets/img/logo.png" alt="img"></a> -->
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -56,7 +57,7 @@
                             <div><i class="flaticon-map-location"></i></div>
                             <div class="location-style">
                                 <h6>Main Office:</h6>
-                                <p>1418 Street, Suite 3845<br>California, USA</p>
+                                <p>1151 Asylum Avenue<br>New Haven, CT 06511</p>
                             </div>
                         </div>
                     </div>

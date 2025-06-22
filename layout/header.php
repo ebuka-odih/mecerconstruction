@@ -48,7 +48,8 @@
                         <div class="d-flex align-items-center justify-content-between">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img alt="logo" src="assets/img/logo.png">
+                                <h3 style="color: white">Mecer Construction</h3>
+                                    <!-- <img alt="logo" src="assets/img/logo.png"> -->
                                 </a>
                             </div>
                         </div>
@@ -67,9 +68,9 @@
                             <li class="navbar-dropdown">
                                 <a href="services.php">Services</a>
                             </li>
-                            <li class="navbar-dropdown">
+                            <!-- <li class="navbar-dropdown">
                                 <a href="projects.php">Projects</a>
-                            </li>
+                            </li> -->
                             <li class="navbar-dropdown">
                                 <a href="contact.php">Contact</a>
                             </li>

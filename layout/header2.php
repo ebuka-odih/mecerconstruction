@@ -49,7 +49,7 @@
               <h4>E.<a href="mailto:info@mecerconstruction.com"> info@mecerconstruction.com</a></h4>
             </div>
             <div class="content-header">
-              <h4>L.<span> 1418 Street, Suite 3845 California, USA</span></h4>
+              <h4>L.<span> 1151 Asylum Avenue, New Haven, CT 06511</span></h4>
             </div>
           </div>
         </div>
@@ -62,7 +62,8 @@
             <div class="d-flex align-items-center justify-content-between">
               <div class="logo">
                 <a href="index.php">
-                  <img alt="logo" src="assets/img/logo.png">
+                <h3 style="color: white">Mecer Construction</h3>
+                  <!-- <img alt="logo" src="assets/img/logo.png"> -->
                 </a>
               </div>
             </div>
@@ -81,16 +82,20 @@
               <li class="navbar-dropdown">
                 <a href="services.php">Services</a>
               </li>
-              <li class="navbar-dropdown">
+              <!-- <li class="navbar-dropdown">
                 <a href="projects.php">Projects</a>
-              </li>
+              </li> -->
               <li class="navbar-dropdown">
                 <a href="contact.php">Contact</a>
               </li>
             </ul>
           </nav>
           <div class="header-search">
-          
+            <div class="header-search-button search-box-outer">
+              <a href="javascript:void(0)" class="search-btn">
+                <i class="flaticon-search"></i>
+              </a>
+            </div>
             <a href="contact.php" class="theme-btn w-color">Request a Quote</a>
           </div>
         </div>
