@@ -9,30 +9,30 @@ include 'layout/header.php';
                 <div class="swiper-wrapper">
                     <div class="hero-one-text swiper-slide">
                         <h5>Residential & Commercial</h5>
-                        <h2>Construction Excellence</h2>
-                        <p>Delivering solid results through detailed planning and expert execution.</p>
+                        <h2>Excellence in Construction</h2>
+                        <p>We deliver outstanding results through meticulous planning and flawless execution.</p>
                         <div class="btnn">
-                            <a href="#" class="theme-btn w-color">See Our Work</a>
+                            <a href="projects.php" class="theme-btn w-color">See Our Work</a>
                         </div>
                         <img src="assets/img/hero-two.png" alt="img">
                     </div>
                     <div class="hero-one-text swiper-slide">
-                        <h5>Innovative Building and</h5>
-                        <h2>Reliable Delivery</h2>
-                        <p>From blueprint to reality with quality, safety, and speed.</p>
+                        <h5>Innovative Building Solutions</h5>
+                        <h2>Reliable Project Delivery</h2>
+                        <p>From blueprint to reality, we prioritize quality, safety, and efficiency.</p>
                         <div class="btnn">
-                            <a href="#" class="theme-btn w-color">View Our Work</a>
+                            <a href="projects.php" class="theme-btn w-color">View Our Work</a>
                         </div>
                         <img src="assets/img/hero-two-1.png" alt="img">
                     </div>
                     <div class="hero-one-text swiper-slide">
-                        <h5>The Building Expertise and</h5>
+                        <h5>Building Expertise You Can Trust</h5>
                         <h2>Trusted Execution</h2>
                         <p>
-                            methods that prioritize structural integrity, timeline, cost-efficiency, and safety.
+                            Our methods ensure structural integrity, on-time delivery, and cost-effective solutions without compromising safety.
                         </p>
                         <div class="btnn">
-                            <a href="#" class="theme-btn w-color">Discover Projects</a>
+                            <a href="projects.php" class="theme-btn w-color">Discover Projects</a>
                         </div>
                         <img src="assets/img/hero-two-2.png" alt="img">
                     </div>
@@ -45,39 +45,38 @@ include 'layout/header.php';
         <div class="container">
             <div class="heading">
                 <img src="assets/img/heading-img.png" alt="img">
-                <h2>We Offer Comprehensive Construction Services</h2>
+                <h2>Comprehensive Construction Services</h2>
 <!--                <h2> We specialize in commercial construction projects that shape thriving business environments. From office complexes to retail spaces, we design and build structures that drive economic growth and serve community needs.</h2>-->
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6">
                     <div class="services-one" style="background-image: url(assets/img/bg-lins-img.jpg);">
                         <i class="flaticon-skyline"></i>
-                        <h4>Commercial</h4>
+                        <h4>Commercial Construction</h4>
                         <p>
-                            We specialize in commercial construction projects that shape thriving business environments. From office complexes to retail spaces, we design and build structures that drive economic growth and serve community needs.
+                            We specialize in commercial projects that build thriving business environments. From office complexes to retail spaces, we create structures that support growth and community needs.
                         </p>
-                        <a href="our-service.html"> <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="services.php"> <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="services-one" style="background-image: url(assets/img/bg-lins-img.jpg);">
                         <i class="flaticon-hook"></i>
-                        <h4>Contracting </h4>
+                        <h4>General Contracting </h4>
                         <p>
-                            As trusted contractors, we manage every stage of your construction journey — from planning and procurement to project execution. Our team ensures timelines are met, budgets are respected, and quality remains uncompromised.
+                            As your trusted contractor, we manage every stage of the construction journey, from planning and procurement to final execution, ensuring timelines are met and quality is prioritized.
                         </p>
-                        <a href="our-service.html"> <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="services.php"> <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="services-one" style="background-image: url(assets/img/bg-lins-img.jpg);">
                         <i class="flaticon-villa"></i>
-                        <h4>Residential </h4>
+                        <h4>Residential Construction</h4>
                         <p>
-                            We build homes that reflect comfort, durability, and thoughtful design. Whether it’s a single-family house or a multi-unit development, our residential projects are built with care and crafted to last.
-
+                            We build homes that blend comfort, durability, and thoughtful design. Whether a single-family house or a multi-unit complex, our residential projects are crafted to last for generations.
                         </p>
-                        <a href="our-service.html"> <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="services.php"> <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -89,18 +88,27 @@ include 'layout/header.php';
                 <div class="col-lg-6">
                     <div class="architect">
                         <div class="heading two sec-title-animation animation-style2">
-                            <span>BUILDING CONSTRUCTION SOLUTIONS</span>
-                            <h2>We Deliver Timely and Cost-Efficient Projects</h2>
+                            <span>BUILT TO LAST</span>
+                            <h2>Delivering Projects On Time and On Budget</h2>
                             <p>
-                                At Mecer Construction, we combine innovation, expertise, and precision to bring your building visions to life. Whether it's residential, commercial, or public infrastructure, we deliver each project with a strong focus on safety, timelines, and budget control.
+                                At Mecer Construction, we combine innovation, expertise, and precision to bring your vision to life. We handle residential, commercial, and industrial projects with a commitment to safety, quality, and efficiency.
                             </p>
                             <p>
-                                Our team of architects, engineers, and project managers work collaboratively to ensure every phase — from planning to handover — is handled with clarity, craftsmanship, and care.
+                                Our team of engineers and project managers works collaboratively to ensure every phase—from planning to completion—is executed with transparency and superior craftsmanship.
                             </p>
                         </div>
                         <div class="progress-style">
                             <div class="progress_bar two">
-                                <span>Unique Designs</span>
+                                <span>Safety Compliance</span>
+                                <div class="progress_bar_item">
+                                    <div class="item_value cell shrink">0%</div>
+                                    <div class="item_bar cell">
+                                        <div class="progress" data-progress="100"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="progress_bar">
+                                <span>Project Completions</span>
                                 <div class="progress_bar_item">
                                     <div class="item_value cell shrink">0%</div>
                                     <div class="item_bar cell">
@@ -108,20 +116,11 @@ include 'layout/header.php';
                                     </div>
                                 </div>
                             </div>
-                            <div class="progress_bar">
-                                <span>Consultation</span>
-                                <div class="progress_bar_item">
-                                    <div class="item_value cell shrink">0%</div>
-                                    <div class="item_bar cell">
-                                        <div class="progress" data-progress="76"></div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div class="architect-text">
                         <div>
-                            <h3>Brenda R. Harris</h3>
+                            <h3>John D. Miller</h3>
                             <p>CEO<br> Mecer Construction</p>
                         </div>
                         <img src="assets/img/signature.png" alt="img">
@@ -185,24 +184,24 @@ include 'layout/header.php';
             <div class="row">
                 <div class="col-lg-7">
                     <div class="heading two">
-                        <span>We designed your space</span>
-                        <h2>Interesting Facts About Construction industry</h2>
+                        <span>Proven Track Record</span>
+                        <h2>Key Company Milestones</h2>
                     </div>
                     <div class="count-number">
                         <div class="count-style">
                             <i class="flaticon-customer-service"></i>
-                            <h2 data-max="14"><sup>k</sup></h2>
-                            <p>house interior design</p>
+                            <h2 data-max="250"><sup>+</sup></h2>
+                            <p>Completed Projects</p>
                         </div>
                         <div class="count-style">
                             <i class="flaticon-architecture"></i>
-                            <h2 data-max="10"><sup>m</sup></h2>
-                            <p>finishing projects</p>
+                            <h2 data-max="12"><sup>+</sup></h2>
+                            <p>Years of Experience</p>
                         </div>
                         <div class="count-style">
                             <i class="flaticon-engineer"></i>
                             <h2 data-max="94"><sup>+</sup></h2>
-                            <p>expert designer</p>
+                            <p>Skilled Professionals</p>
                         </div>
                     </div>
                 </div>
@@ -221,43 +220,12 @@ include 'layout/header.php';
         </div>
     </section>
 
-    <div class="marquee gap no-top">
-        <div class="marquee-box-one">
-            <div class="marquee-content-one">
-                <a href="#">
-                    <h2>Construction</h2>
-                </a>
-                <a href="#">
-                    <h2>Interior Design</h2>
-                </a>
-                <a href="#">
-                    <h2>Modern Structures </h2>
-                </a>
-                <a href="#">
-                    <h2>Ideas</h2>
-                </a>
-            </div>
-            <div class="marquee-content-one">
-                <a href="#">
-                    <h2>Construction</h2>
-                </a>
-                <a href="#">
-                    <h2>Interior Design</h2>
-                </a>
-                <a href="#">
-                    <h2>Modern Structures </h2>
-                </a>
-                <a href="#">
-                    <h2>Ideas</h2>
-                </a>
-            </div>
-        </div>
-    </div>
+   
     <section class="gap client-section" style="background-color: #f5f5f5; background-image:url(assets/img/building.jpg);">
         <div class="container">
             <div class="heading two">
                 <span>Testimonial and Reviews</span>
-                <h2>Client’s Reviews</h2>
+                <h2>Client's Reviews</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-xl-8 col-lg-10">
@@ -265,16 +233,14 @@ include 'layout/header.php';
                         <div class="swiper-wrapper">
                             <div class=" swiper-slide">
                                 <div class="client-text">
-                                    <h5><i> I am very happy with the service I received from urbanist Architecture. They were delightful
-                      to deal
-                      with and provided an excellent service.</i></h5>
+                                    <h5><i>Mecer Construction delivered our project ahead of schedule and under budget. Their professionalism and attention to detail were exceptional.</i></h5>
                                 </div>
                                 <div class="client-one">
                                     <i class="flaticon-quotation-mark"></i>
                                     <img src="assets/img/client-one-1.jpg" alt="img">
                                     <div>
-                                        <h5>Romin Qlark</h5>
-                                        <h6>High Quality Work</h6>
+                                        <h5>John Smith</h5>
+                                        <h6>CEO, Alexa Complex</h6>
                                     </div>
                                     <ul class="star">
                                         <li><i class="fa-solid fa-star"></i></li>
@@ -287,16 +253,14 @@ include 'layout/header.php';
                             </div>
                             <div class=" swiper-slide">
                                 <div class="client-text">
-                                    <h5><i> I am very happy with the service I received from urbanist Architecture. They were delightful
-                      to deal
-                      with and provided an excellent service.</i></h5>
+                                    <h5><i>The quality of work and the team's dedication were outstanding. We couldn't be happier with the final result. Highly recommended.</i></h5>
                                 </div>
                                 <div class="client-one">
                                     <i class="flaticon-quotation-mark"></i>
                                     <img src="assets/img/client-one-1.jpg" alt="img">
                                     <div>
-                                        <h5>Romin Qlark</h5>
-                                        <h6>High Quality Work</h6>
+                                        <h5>Sarah Johnson</h5>
+                                        <h6>Homeowner</h6>
                                     </div>
                                     <ul class="star">
                                         <li><i class="fa-solid fa-star"></i></li>
@@ -309,16 +273,14 @@ include 'layout/header.php';
                             </div>
                             <div class=" swiper-slide">
                                 <div class="client-text">
-                                    <h5><i> I am very happy with the service I received from urbanist Architecture. They were delightful
-                      to deal
-                      with and provided an excellent service.</i></h5>
+                                    <h5><i>From start to finish, the process was seamless. The team was communicative, responsive, and skilled. A pleasure to work with.</i></h5>
                                 </div>
                                 <div class="client-one">
                                     <i class="flaticon-quotation-mark"></i>
                                     <img src="assets/img/client-one-1.jpg" alt="img">
                                     <div>
-                                        <h5>Brian P</h5>
-                                        <h6>High Quality Work</h6>
+                                        <h5>David Chen</h5>
+                                        <h6>Project Manager</h6>
                                     </div>
                                     <ul class="star">
                                         <li><i class="fa-solid fa-star"></i></li>
@@ -359,47 +321,47 @@ include 'layout/header.php';
                 </div>
                 <div class="col-lg-6">
                     <div class="heading two ">
-                        <span>inspiration Faqs. Client Guide!</span>
-                        <h2>We provide quality construction Solutions</h2>
+                        <span>Frequently Asked Questions</span>
+                        <h2>Your Construction Questions Answered</h2>
                     </div>
                     <div class="accordion">
                         <div class="accordion-item">
                             <a href="#" class="heading">
                                 <div class="icon"></div>
-                                <div class="title">Architectures a small achitectural practise?</div>
+                                <div class="title">What types of construction projects do you handle?</div>
                             </a>
 
                             <div class="content">
-                                <p>typefaces and layouts, and in appeara nce of different general the content of dummy text is nonsensical.typefaces of dummy text is nonsensical.</p>
+                                <p>We specialize in commercial, residential, and industrial construction projects, including new builds, renovations, and large-scale infrastructure work.</p>
                             </div>
                         </div>
                         <div class="accordion-item active">
                             <a href="#" class="heading">
                                 <div class="icon"></div>
-                                <div class="title">Do you specialise in residential architecturre?</div>
+                                <div class="title">How do you ensure project timelines and budgets are met?</div>
                             </a>
 
                             <div class="content" style="display: block;">
-                                <p>typefaces and layouts, and in appeara nce of different general the content of dummy text is nonsensical.typefaces of dummy text is nonsensical.</p>
+                                <p>Our team uses detailed project management and transparent communication to ensure every project is completed on time and within budget, without compromising quality or safety.</p>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <a href="#" class="heading">
                                 <div class="icon"></div>
-                                <div class="title">What do your architectural services entail?</div>
+                                <div class="title">Is your company licensed and insured?</div>
                             </a>
 
                             <div class="content">
-                                <p>typefaces and layouts, and in appeara nce of different general the content of dummy text is nonsensical.typefaces of dummy text is nonsensical.</p>
+                                <p>Yes, Mecer Construction is fully licensed and insured. We adhere to all industry regulations and safety standards to provide you with peace of mind.</p>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <a href="#" class="heading">
                                 <div class="icon"></div>
-                                <div class="title">What type of projects do you deliver?</div>
+                                <div class="title">Can you provide a quote for our project?</div>
                             </a>
                             <div class="content">
-                                <p>typefaces and layouts, and in appeara nce of different general the content of dummy text is nonsensical.typefaces of dummy text is nonsensical.</p>
+                                <p>Absolutely. Contact us through the form on our website or give us a call, and we will be happy to provide a detailed quote and consultation for your project.</p>
                             </div>
                         </div>
                     </div>
@@ -407,20 +369,21 @@ include 'layout/header.php';
             </div>
         </div>
     </section>
+
     <section class="subscribe-section" style="background-image: url(assets/img/newsletter.jpg);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <form class="subscribe">
                         <div class="subscribe-text">
-                            <h3>Subscribe Newsletter</h3>
-                            <p>Subscribe to our newsletter to be in the know.</p>
+                            <h3>Subscribe to Our Newsletter</h3>
+                            <p>Stay updated with our latest projects and news.</p>
                             <div class="position-relative">
                                 <input type="text" name="email" placeholder="Email address.">
                                 <button class="theme-btn">Subscribe</button>
                             </div>
                             <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-                            <label for="vehicle1"> check the box to agree with privacy policy</label>
+                            <label for="vehicle1"> I agree to the privacy policy.</label>
                         </div>
                     </form>
                 </div>
